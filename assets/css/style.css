@@ -24,6 +24,11 @@ nav {
     box-sizing: border-box;
     margin-bottom: 10px;
 }
+
+nav li{
+    display: inline-block;
+}
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
