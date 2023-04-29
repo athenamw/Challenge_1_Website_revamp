@@ -9,15 +9,25 @@ body {
 }
 
 .header {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
+nav {
+    display: inline-block;
+    position: relative;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    
 }
 
 .header h1 .seo {
@@ -33,7 +43,7 @@ body {
 }
 
 .spacing {
-    width: 25%;
+    width: 40px;
     display: inline-block;
 }
 
