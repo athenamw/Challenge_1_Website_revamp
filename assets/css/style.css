@@ -19,15 +19,18 @@ body {
 }
 
 nav {
+    
     display: inline-block;
-    position: relative;
-    box-sizing: border-box;
+    position: static;
+    box-sizing: content-box;
     margin-bottom: 10px;
     margin-top: 10px;
 }
 
 nav li{
     display: inline-block;
+    margin-inline-end: 50px;
+    
 }
 
 .header h1 {
@@ -42,14 +45,14 @@ nav li{
 
 .header section {
     padding-top: 15px;
-    margin-right: 20px;
+    margin-right: 40px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
 .spacing {
-    width: 40px;
+    width: 20px;
     display: inline-block;
 }
 
