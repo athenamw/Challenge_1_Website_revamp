@@ -11,6 +11,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     box-sizing: border-box;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +21,8 @@ body {
 /* added style for nav tag */
 nav {
     
-    display: inline-block;
+    display: flex;
+    justify-content: space-between;
     position: static;
     box-sizing: content-box;
     margin-bottom: 10px;
