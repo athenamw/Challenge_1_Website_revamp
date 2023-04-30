@@ -34,7 +34,6 @@ nav li{
 .header h1 {
     display: inline-block;
     font-size: 48px;
-    
 }
 
 .header h1 .seo {
@@ -49,11 +48,6 @@ nav li{
     font-size: 20px;
 }
 
-.spacing {
-    width: 20px;
-    display: inline-block;
-}
-
 .header section ul {
     list-style-type: inline-block;
 }
@@ -61,6 +55,11 @@ nav li{
 .header section ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+.spacing {
+    width: 20px;
+    display: inline-block;
 }
 
 a {
