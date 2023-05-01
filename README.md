@@ -20,3 +20,6 @@ The project was meant to match a mockup of a search engine optimization website.
 
 Screenshot
 [Link to screenshot](/challenge_1_screenshot_deployed_website.png)
+
+Website
+[Link to deployed site](https://athenamw.github.io/Challenge_1_Website_revamp/)
