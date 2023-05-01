@@ -19,4 +19,4 @@ Conclusion
 The project was meant to match a mockup of a search engine optimization website. 
 
 Screenshot
-(Week 1 Challenge Website Revamp Screenshot.pdf)
+./
