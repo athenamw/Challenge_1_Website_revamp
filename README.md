@@ -23,3 +23,7 @@ Screenshot
 
 Website
 [Link to deployed site](https://athenamw.github.io/Challenge_1_Website_revamp/)
+
+Links and Location to Code Source
+[HTML](https://github.com/athenamw/Challenge_1_Website_revamp/blob/main/index.html)
+[CSS](https://github.com/athenamw/Challenge_1_Website_revamp/blob/main/assets/css/style.css)
