@@ -1,29 +1,29 @@
 # Challenge_1_Website_revamp
 
-Project Description
+# Project Description
 The project is meant to clean up the code by changing older language to semantic code. It is also meant to make the website more accessible. 
 
-Installation
+# Installation
 N/A
 
-Usage
+# Usage
 This is an informational website about search engine optimization, online reputation management, and social media marketing.
 
-License
+# License
 N/A
 
-Acknowledgements
+# Acknowledgements
 Resources used were google searches and my classmates' opinion.
 
-Conclusion
+# Conclusion
 The project was meant to match a mockup of a search engine optimization website. 
 
-Screenshot
-[Link to screenshot](/challenge_1_screenshot_deployed_website.png)
+## Screenshot
+![Link to screenshot](/challenge_1_screenshot_deployed_website.png)
 
-Website
+## Website
 [Link to deployed site](https://athenamw.github.io/Challenge_1_Website_revamp/)
 
-Links and Location to Code Source
+## Links and Location to Code Source
 [HTML](https://github.com/athenamw/Challenge_1_Website_revamp/blob/main/index.html)
 [CSS](https://github.com/athenamw/Challenge_1_Website_revamp/blob/main/assets/css/style.css)
